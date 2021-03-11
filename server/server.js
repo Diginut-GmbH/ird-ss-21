@@ -18,7 +18,7 @@ app.use(bodyParser.json())
 
 
 
-/*************** API Endpoints ******************/
+/*************** API endpoints ******************/
 
 // GET all sights
 app.get('/sights', (req, res) => {
